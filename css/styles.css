@@ -11377,7 +11377,7 @@ iframe {
 
 .iframe-wrapper iframe {
   width: 100%;
-  height: 1200px; /* 👈 change this to whatever height you want */
+  height: 1300px; /* 👈 change this to whatever height you want */
   border: none;
 }
 
